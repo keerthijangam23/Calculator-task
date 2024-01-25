@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    background-color: darkgray;
+    width: fit-content;
+
+    text-align: center;
+    align-items: center;
+    margin: 100px;
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    margin-left: 40%;   
+}
+.myBtn{
+    background-color: pink;
+  border: 100px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;  
+}
+#Btn{
+    float: left;
+}
